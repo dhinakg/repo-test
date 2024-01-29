@@ -9,6 +9,9 @@ mkdir -p $OUTPUT_DIR
 
 echo "[Repository] Generating Packages..."
 apt-ftparchive packages ./pool > $OUTPUT_DIR/Packages
+
+sed -i "s|./pool|https://dhinakg.github.io/repo-test/pool|g" $OUTPUT_DIR/Packages
+
 zstd -q -c19 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.zst
 xz -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.xz
 bzip2 -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.bz2
@@ -40,4 +43,4 @@ else
         echo "In-line signature signing failed."
 fi
 
-mv pool "$OUTPUT_DIR"
+cp -r pool "$OUTPUT_DIR"
