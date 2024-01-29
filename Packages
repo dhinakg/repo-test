@@ -1,0 +1,288 @@
+Package: com.dhinakg.addprofileinstallbutton
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.addprofileinstallbutton_1.0.0_iphoneos-arm.deb
+Size: 6840
+MD5sum: 84e2809832f14d611b90b7707799273a
+SHA1: 21c45b4d53c0bfdfee3f9a8aac2a70294e96937f
+SHA256: 45dad6cf5852ea8cfb68fc255ddf488139f287424ef43e6025f0873e291d7e9e
+SHA512: 241e8692c851814c0ea42c7ed944211dad545107530cc5e9f84d1391d859582546324e7d5f7cc63dc4a73822b85e55695e2dcf97958f76c90e7efd9e20679172
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Name: AddProfileInstallButton
+
+Package: com.dhinakg.addprofileinstallbutton
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.addprofileinstallbutton_1.0.1_iphoneos-arm.deb
+Size: 6812
+MD5sum: b5287723fde54727eb1bcfaa97ba9044
+SHA1: aced2c57c278bbe70dca81f40b7a9f9e9652ec29
+SHA256: c1f6b9a232a09074c5fc4f3595b4b5276a4a0e760f861702bb918a5dd48de837
+SHA512: a18ff437b3d2ebb7c9950a589ec670e13750074f7bf829f6abdaf18cb6354a3bbd53017b2b738349b3b69eb4f8c785ee396b71d54515a1b56fc3aca0c81b99bf
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Name: AddProfileInstallButton
+
+Package: com.dhinakg.addprofileinstallbutton
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm.deb
+Size: 7538
+MD5sum: 5cea42f70a500621a8ee1e534b51f512
+SHA1: 022b8879c1ab66c64edf06de704c6a7060001c4a
+SHA256: 90c2b0a71a220ae363831357be77b8f9a2c8c2d7095a5a33e8f4517176615fa2
+SHA512: eb5b5a58f5895e5a4ab934e5d3e671c3bd038f80ed51398f1227a692d95357dd627a681903422e663cdef006b32dfa8d3edf568ceab180cee7e8c39902e5902e
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Name: AddProfileInstallButton
+
+Package: com.dhinakg.dahlia
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, net.cadoth.otaenabler
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dahlia_1.0.0_iphoneos-arm.deb
+Size: 19396
+MD5sum: 4e46839be51bf040b6e48f51d6ef74bd
+SHA1: 8909b2e9cf21d7e27e4229662e8c778d7b578987
+SHA256: 3588b13fa87312bcf08c7486822a9b9bdc4e1b67a90ce0bbf1516b3838ed8539
+SHA512: 13d0d1e66543a47180a11b3e068c83309bdee6ba2d94b92546d671a699292465a977f43c8418a434444e4af12a01a4276df6d25bc27a92981ac7eee54b7d81ac
+Homepage: https://dhinakg.github.io/repo
+Description: Delay OTA tools
+Name: Dahlia
+
+Package: com.dhinakg.dahlia
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, net.cadoth.otaenabler
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dahlia_1.0.1_iphoneos-arm.deb
+Size: 20288
+MD5sum: 52d9957ebd0c0e160659e52b3b589cb7
+SHA1: fb4350cce1e086e338c7cbed5b60412476f77805
+SHA256: 2ea8f243f97beda157cedfbb76ad611e0e8542187f74b4c311ea5c7eb4c6516f
+SHA512: 741f310c62eee6df7ad3f6957f8bfffebc34cd610c7b7400252806f1e0077bb71f2d2d35ae125c7d203ac47868f58ed4f247f586259ee56b0735165d526d9165
+Homepage: https://dhinakg.github.io/repo
+Description: Delay OTA tools
+Name: Dahlia
+
+Package: com.dhinakg.dahlia
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, net.cadoth.otaenabler
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dahlia_1.0.2_iphoneos-arm.deb
+Size: 18878
+MD5sum: aa364242e0a53d51204c63ac2f7408cd
+SHA1: 0a425053c44c13c642889da6f395eb71fa40b09b
+SHA256: 3e6e0243e96dbd36be2fa8b5e4819653979a4b90d8e116bda8e19f9167c017b1
+SHA512: 6fe86186394d9dc8c69b77ce99aa7b0a18ae95a73aa20d365dff4eabd76d83ccd4922d858c66a2d0d17a3d3ff4219be9757aa480af053ec3f1e6f35da50760ab
+Homepage: https://dhinakg.github.io/repo
+Description: Delay OTA tools
+Name: Dahlia
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.0.1_iphoneos-arm.deb
+Size: 1030
+MD5sum: 2778d894201633e9a0569445a12efece
+SHA1: 5b85a1a69e4a14e3eb40ad7382c83590bd040b5f
+SHA256: 0c606a49be528c15c63aa33ec4419e4d00159168e4202961f44e18db2f33b7dc
+SHA512: 634923630b8c70269b49a6680d90a6860ad3147a0db1fcd103e9eabb4388fb5250b3662c03510aef95b93f436f08bdce700fc1d3b4ddccaa322481d43f533225
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+Name: Dallas
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.0.3_iphoneos-arm.deb
+Size: 1330
+MD5sum: 2eedfb12167290110ae209cc1a6ad19d
+SHA1: a32e3e24f27dbc4e9fb4674404d7c4707a7320a0
+SHA256: eaee2dccb921193873613bbea0a077c58ce10902a4daadc6265fb6b5ccd7f235
+SHA512: 56d291b13ea0db7e3ebd646f8ffbab93fd88a0528c2911ddd55c5d969517e709ba6fefe72b34c28f7ff62a95ec6b689a23a91c5456649fbfa8fc3213c25de370
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+ This package redirects the OTA search server to my own self-hosted server. This is an alpha release and will likely not work a few hours after publication.
+ Make sure you are supervised.
+Name: Dallas
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.1.0_iphoneos-arm.deb
+Size: 1286
+MD5sum: 3a9981f054975030b6ed30d30b3be95d
+SHA1: 984b56d7fbb824954f6a027b48f095e48127d0b6
+SHA256: 9e2b30f1954410aabbf89333f78724a9e587369539b42e5730cb8e97b27c7292
+SHA512: 4e8bfa390108ea9008c453bebdf50d463f878204a3a2a8288cd949e1c4370b9b01be95b6a697856dafd6f6f938cf33dd015503d9bbb45f673d810c870c0dc44e
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+ This package redirects the OTA search server to my own self-hosted server.
+ 
+ Make sure you are supervised.
+Name: Dallas
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 0
+Depends: mobilesubstrate, wget, com.bingner.plutil
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.1.1_iphoneos-arm.deb
+Size: 1290
+MD5sum: f0b3002b9dbaad1c14441172ad5a9bbd
+SHA1: ef49b3fc365308745b09fdc0a3a9e2eed238916b
+SHA256: 33e7e662514a0084e6a3f7672ca60bf1285b655334a366850cf046c6b078a4dd
+SHA512: 1f17559a76a3c529daafd25b5a35effda29f5a6802db75968532147f94f904ef58de78dffd6453c489838b749dc4973bf9f30a0e163e18b3656d0585b9cec1aa
+Homepage: https://dhinakg.github.io/repo
+Description: Redirect OTA server
+ This package redirects the OTA search server to my own self-hosted server.
+ .
+ Make sure you are supervised.
+Name: Dallas
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.5.0
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 152
+Depends: mobilesubstrate, net.cadoth.otaenabler
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.5.0_iphoneos-arm.deb
+Size: 3740
+MD5sum: a0939fae2a0c9c8a8fe702340ec1c1e2
+SHA1: dafb83e21bb4a4b4c71249296d899c5d2301e0bf
+SHA256: e2afad75ccb23b38229b9edc2caa02398200f7a0fd378b446f50476e65ea4010
+SHA512: cc3c0300104a5d5ac9c167c9760e487ac1ddca5a85dff0d65608562693a5adae963d390c7041771459f3dd3b2464704911f304e0303a22968f9e0d6d843e66ec
+Homepage: https://dhinakg.github.io/repo
+Description: Enable OTA server redirection
+ This package enables redirecting the OTA search server to my own self-hosted server.
+ .
+ To install this package you will need the OTAEnabler repo added - https://repo.cadoth.net
+ .
+ After installing, install a Dallas profile from https://dhinakg.github.io/dallas
+Name: Dallas
+
+Package: com.dhinakg.dallas
+Architecture: iphoneos-arm
+Version: 0.5.1
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 136
+Depends: mobilesubstrate, com.bingner.plutil, net.cadoth.otaenabler
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dallas_0.5.1_iphoneos-arm.deb
+Size: 3652
+MD5sum: a66cda6212efa95f041f49b1504568ea
+SHA1: 7cee4a1433fd2f3f3a9d92aac08f6dc0fa43df08
+SHA256: 1dfc06f716a314a4793f748f93166a6a2e32fb108a237eb9075c3cd18a152467
+SHA512: b0b4a06da21d6d942c124fb763034447a4a7529858a046e2bdf629579032ccddf627765ed771efdbd0e18c624b74422204fadff10177b99eb877c170edf04c62
+Homepage: https://dhinakg.github.io/repo
+Description: Enable OTA server redirection
+ This package enables redirecting the OTA search server to my own self-hosted server.
+ .
+ To install this package you will need the OTAEnabler repo added - https://repo.cadoth.net
+ .
+ After installing, install a Dallas profile from https://dhinakg.github.io/dallas
+Name: Dallas
+
+Package: com.dhinakg.dummyprefs
+Architecture: iphoneos-arm
+Version: 1.0.0
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 193
+Depends: preferenceloader
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dummyprefs_1.0.0_iphoneos-arm.deb
+Size: 33512
+MD5sum: 9ee483be46ae08270490802539cbd218
+SHA1: a691cb1b1e1d2abb6f67bd7aecd9965987f3f40b
+SHA256: 8abdb6a547d4a6863e7c5bc92a1198f8eb7fd091a6b2671014422bc6724eda21
+SHA512: 8b666a1c94946d41266954c0121d8d01f02cba2b88cfecf3110f0b1940e8930c6cee29342079a769af0a498a0e78c902f145d2adbceae9bc25aeeb60d4ec345b
+Description: Dummy PreferenceBundle to test your PreferenceLoader setup
+Author: Dhinak G <dhinak@dhinak.net>
+Name: DummyPrefs
+
+Package: com.dhinakg.dummyprefs
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 193
+Depends: preferenceloader
+Filename: https://dhinakg.github.io/repo-test/pool/com.dhinakg.dummyprefs_1.0.0_iphoneos-arm64.deb
+Size: 33560
+MD5sum: 902b7c960c708dc05fa9eca1cac75bfd
+SHA1: 770575d4b69102e7a101aff493512750d09626af
+SHA256: 516a486e1f8def27e0e9302d23bad412182d37b326a485d1636d76fcb9fa69f1
+SHA512: 3208d77240a7a66d3240133cdf4d271651d93113937af8b9cd1dfeaa032cae4d2225575655ac406fb59cdaed11c6af97ef0c761b2ffcf2f0d63b4f3de4319174
+Description: Dummy PreferenceBundle to test your PreferenceLoader setup
+Author: Dhinak G <dhinak@dhinak.net>
+Name: DummyPrefs
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.6-1
+Section: System
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 435
+Depends: mobilesubstrate
+Filename: https://dhinakg.github.io/repo-test/pool/preferenceloader_2.2.6-1_iphoneos-arm64.deb
+Size: 30180
+MD5sum: f51dc3230ba6c4129f31f98579939639
+SHA1: 4acbbfd6e01656ac563b060471d224a66dfd37c7
+SHA256: 9b12fb84160b1146320a19b5b0ffa76688eb59bfc12de82c14bd114824f6a479
+SHA512: e7093ce6ef4063b7c4874437cef09b49825acaae7981bd6c6659d1f841a799099da8c6811a6efac68666783ae069e56980bc854409b62c0e3e6d46312faf854d
+Description: load preferences in style
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Name: PreferenceLoader
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.6
+Section: System
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 435
+Depends: mobilesubstrate
+Filename: https://dhinakg.github.io/repo-test/pool/preferenceloader_2.2.6_iphoneos-arm64.deb
+Size: 30220
+MD5sum: 02ac9a2036d6fe0a0292ee8dbf7049bc
+SHA1: d6b646d2b1581dd915b3ac7ce52a6bb155c163a5
+SHA256: 001cac1488020e37f4674ea4c2034ca4ea7724017ce4a76f0fc5f72001ba5667
+SHA512: 29df1d42134da57730e2efa34ad7c2e3eb3c1f127358c85a94a4eef5d5afbf013cf92874389941157d064999a99c8ca7eaee90983855359bb488451912359437
+Description: load preferences in style
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Name: PreferenceLoader
+
