@@ -10,7 +10,8 @@ mkdir -p $OUTPUT_DIR
 echo "[Repository] Generating Packages..."
 apt-ftparchive packages ./pool > $OUTPUT_DIR/Packages
 
-sed -i "s|./pool|https://dhinakg.github.io/repo-test/pool|g" $OUTPUT_DIR/Packages
+# sed -i "s|./pool|https://dhinakg.github.io/repo-test/pool|g" $OUTPUT_DIR/Packages
+sed -i "s|./pool|https://github.com/dhinakg/repo-test/releases/download/files|g" $OUTPUT_DIR/Packages
 
 zstd -q -c19 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.zst
 xz -c9 $OUTPUT_DIR/Packages > $OUTPUT_DIR/Packages.xz
